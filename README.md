@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Public repositories](https://img.shields.io/badge/21-PUBLIC_REPOSITORIES-0B1B32?style=for-the-badge&labelColor=07111F&color=0B1B32)
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZulut30&query=%24.public_repos&suffix=%20PUBLIC%20REPOSITORIES&style=for-the-badge&labelColor=07111F&color=0B1B32&label=BUILDING)
 ![Premium emoji](https://img.shields.io/badge/275%2B-PREMIUM_EMOJI-0B1B32?style=for-the-badge&labelColor=07111F&color=0B1B32)
 ![WordPress Skills stars](https://img.shields.io/github/stars/Zulut30/Wordpress-skills?style=for-the-badge&logo=github&label=WORDPRESS%20SKILLS&labelColor=07111F&color=0B1B32)
 
