@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Manacost Dev — engineering digital worlds around games, content and AI" width="100%" />
+  <img src="./assets/hero-portal.png" alt="Manacost Dev — magical AI portal surrounded by digital cards" width="100%" />
+
+  <br />
+
+  <img src="./assets/wordmark.svg" alt="Manacost Dev" width="72%" />
 
   <br />
 
@@ -13,6 +17,12 @@
   [![Boosty](https://img.shields.io/badge/SUPPORT-Boosty-07111F?style=for-the-badge&logo=boosty&logoColor=F59E0B&labelColor=0F2139)](https://boosty.to/kolodahearthstone)
   [![VK](https://img.shields.io/badge/COMMUNITY-VK-07111F?style=for-the-badge&logo=vk&logoColor=38BDF8&labelColor=0F2139)](https://vk.com/manacost)
   [![Followers](https://img.shields.io/github/followers/Zulut30?style=for-the-badge&logo=github&color=07111F&labelColor=0F2139&logoColor=F8FAFC)](https://github.com/Zulut30?tab=followers)
+</div>
+
+<br />
+
+<div align="center">
+  <i>Создаём цифровые продукты на пересечении игр, медиа и искусственного интеллекта.</i>
 </div>
 
 <br />
