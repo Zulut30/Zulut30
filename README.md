@@ -124,10 +124,7 @@
 ## Активность
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zulut30&theme=github_dark" alt="GitHub activity" />
-  <br />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zulut30&theme=github_dark" alt="Repositories by language" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Zulut30&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="https://raw.githubusercontent.com/Zulut30/Zulut30/output/activity-dashboard.svg" alt="Manacost Dev GitHub activity dashboard" />
 </div>
 
 <br />
