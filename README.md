@@ -67,8 +67,10 @@
 ### GitHub в цифрах
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zulut30&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=F59E0B&locale=ru" alt="Статистика GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulut30&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=6" alt="Основные языки" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zulut30&theme=github_dark" alt="Активность Manacost Dev на GitHub" />
+  <br />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zulut30&theme=github_dark" alt="Репозитории по языкам" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Zulut30&theme=github-dark-blue&hide_border=true" alt="Серия активности GitHub" />
 </div>
 
 ---
