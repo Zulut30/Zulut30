@@ -15,11 +15,15 @@
 
 Всегда готов изучать новое. Активно развиваюсь в инженерном направлении: углубляю знания в архитектуре систем, надёжности и эксплуатации сервисов.
 
-### Ключевой результат
+### Практические результаты
 
 **Миллионы матчей Hearthstone в неделю.** Спроектировал систему парсинга и анализа, которая обрабатывает отдельные записи матчей и агрегированную статистику, сортирует данные и формирует аналитические выборки.
 
 [Разбор проекта: архитектура, проверка данных и работающий API →](https://github.com/Zulut30/Zulut30/blob/main/case-studies/hearthstone-data-platform.md)
+
+**AntiSpamBee — за один вечер.** Создал Telegram-бота модерации с TypeSafe Jev и OCR. В моей проверке примерно на 156 спам-ботах обнаружены все — 100% этой выборки.
+
+[Разбор проекта: Jev, анализ рекламы и надёжная обработка событий →](https://github.com/Zulut30/Zulut30/blob/main/case-studies/antispambee.md)
 
 ### Экспертиза
 
@@ -59,6 +63,7 @@
 | Проект | Задача и технологии |
 | :--- | :--- |
 | **[Koloda API](https://github.com/Manacost-Labs/api.kolodahearthstone.com)** | Платформа игровых данных: парсеры, нормализация, PostgreSQL, REST и GraphQL. |
+| **[AntiSpamBee](https://github.com/Manacost-Labs/AntiSpamBee)** | Модерация рекламы в Telegram: TypeSafe Jev, OCR и анализ профилей. Go, PostgreSQL, NATS JetStream. |
 | **[DeckView](https://github.com/Manacost-Labs/Deckview-TG)** | Telegram-бот и HTTP API для визуализации колод. Python, очереди Redis/RQ и кеширование. |
 | **[HeartPulse](https://github.com/Manacost-Labs/HeartPulse)** | Веб-платформа аналитики Hearthstone: статистика, тир-листы и библиотека карт. TypeScript, React. |
 | **[ManacostTeam](https://github.com/Manacost-Labs/ManacostTeam)** | Инструменты и AI-skills для исследований, редактуры, переводов и проверки контента. |
